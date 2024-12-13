@@ -19,7 +19,7 @@ Originally from Morocco 🇲🇦, crafting scalable and innovative solutions. �
 </h2>
 <h2 align="center">
     <a href="https://iaudiogram.com" target="_blank">
-        <img src="https://iaudiogram.com/wp-content/uploads/2022/03/cropped-Logo-iaudiogram2.png" alt="iAudiogram Logo" style="width: 200px;">
+        <img src="https://iaudiogram.com/wp-content/uploads/2022/03/cropped-Logo-iaudiogram2.png" alt="iAudiogram Logo" style="width: 200px; target="_blank" ">
     </a>
 </h2>
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; justify-items: center;">
