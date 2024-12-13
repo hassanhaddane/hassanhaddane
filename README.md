@@ -7,6 +7,7 @@
 </div>
 
 <h3 align="center">🇫🇷 Full Stack Developer based in France | Aspiring DevOps Engineer 🌟
+  <br>
 Originally from Morocco 🇲🇦, crafting scalable and innovative solutions. 🚀</h3>
 
 <br>
