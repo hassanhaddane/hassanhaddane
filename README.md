@@ -6,7 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=hassanhaddane&label=.Views&color=736751&style=for-the-badge" alt="yso8" /> 
 </div>
 
-<h3 align="center">I'm a Moroccan 🇲🇦 full stack developer based in France 🇫🇷 in study wishing to become a <span>DevOps Engineer</span></h3>
+<h3 align="center">🇫🇷 Full Stack Developer based in France | Aspiring DevOps Engineer 🌟
+Originally from Morocco 🇲🇦, crafting scalable and innovative solutions. 🚀</h3>
 
 <br>
 
