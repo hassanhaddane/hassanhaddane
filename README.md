@@ -60,17 +60,3 @@
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
 
-
-<br>
-
-<h2 align="left">• my profile</h2>
-
-<br>
-
-<div align="center">
-
-  ![Yso8's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanhaddane&count_private=true&hide=prs,issues&show_icons=true)
-
-</div>
-
-<br>
