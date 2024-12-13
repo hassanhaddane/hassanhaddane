@@ -100,3 +100,28 @@ Originally from Morocco 🇲🇦, crafting scalable and innovative solutions. �
   <h3>CSS Frameworks</h3>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </div>
+<div align="center">
+  <!-- Programming Languages -->
+  <h3>Programming Languages</h3>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+
+  <!-- Backend Frameworks -->
+  <h3>Backend Frameworks</h3>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white">
+
+  <!-- API -->
+  <h3>API</h3>
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white">
+
+  <!-- Frontend Frameworks -->
+  <h3>Frontend Frameworks</h3>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
+
+  <!-- CSS Frameworks -->
+  <h3>CSS Frameworks</h3>
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
+
+  <!-- Databases -->
+  <h3>Databases</h3>
+  <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-00E676.svg?style=for-the-badge&logo=nosql&logoColor=white">
+</div>
