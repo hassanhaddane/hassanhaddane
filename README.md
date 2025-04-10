@@ -84,12 +84,15 @@ Originally from Morocco 🇲🇦, crafting scalable and innovative solutions. �
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
   </div>
-</div>
 
 
 
 <br>
+  <div>
       <h3>& Others...</h3>
+        </div>
+</div>
+
 
 
 
