@@ -88,15 +88,4 @@ Originally from Morocco 🇲🇦, crafting scalable and innovative solutions. �
 
 <br>
 
-<a href="https://github.com/hassanhaddane/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanhaddane&layout=compact&theme=buefy&hide_border=true" /></a>
-
-
-<!-- <h2 align="left">• Actually in Progress With</h2>
-
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; justify-items: center;">
-  <!-- Frameworks -->
-  <!-- Backend & Database -->
-  <!-- DevOps -->
-</div>
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; justify-items: center;">
 
