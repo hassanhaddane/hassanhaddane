@@ -61,5 +61,3 @@ Open to on-site, hybrid, or remote opportunities in France / EU.
   </a>
 </div>
 
-ofile Views" />
-</div>
