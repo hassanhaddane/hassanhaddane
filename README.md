@@ -56,21 +56,10 @@ Open to on-site, hybrid, or remote opportunities in France / EU.
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.hassanhaddane.com" target="_blank">
+  <a href="https://www.lowkyz.xyz" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
 
----
-
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanhaddane&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanhaddane&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hassanhaddane&label=Profile%20Views&color=736751&style=for-the-badge" alt="Profile Views" />
+ofile Views" />
 </div>
