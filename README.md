@@ -1,63 +1,204 @@
+````md
+<!--
+  README PROFILE — Hassan HADDANE / LOWKYZ
+  Replace LOWKYZ by your real GitHub username if needed.
+-->
+
 <div align="center">
-  <h1>Hi there 👋, I'm Hassan HADDANE</h1>
-  <h3>🇫🇷 Frontend Developer (and Fullstack) based in France | Open to New CDI Opportunities</h3>
-  <p>Originally from Morocco 🇲🇦 | Passionate about building fast, scalable, and user-friendly web applications 🚀</p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:7c3aed,100:06b6d4&text=Hassan%20HADDANE&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Fullstack%20Mindset%20%7C%20Based%20in%20France&descSize=18&descAlignY=58" />
+
+  <br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=I+build+fast%2C+clean+and+human-friendly+interfaces.;Frontend-first.+Fullstack-capable.+Product-minded.;React+%2B+Next.js+%2B+TypeScript+%2B+UI+obsession.;Currently+open+to+CDI+opportunities+in+France+%2F+EU." />
+
+  <br/><br/>
+
+  <a href="mailto:hassanhaddane33s@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hassanhaddane/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.lowkyz.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
 </div>
 
 ---
 
-## 🔎 Currently Seeking
-I am currently looking for a **full-time position (CDI)** as a **Frontend Developer** (preferred) or **Fullstack Developer**.  
-Open to on-site, hybrid, or remote opportunities in France / EU.
+## 🧬 `whoami`
+
+```ts
+const hassan = {
+  name: "Hassan HADDANE",
+  alias: "LOWKYZ",
+  origin: "Morocco 🇲🇦",
+  basedIn: "France 🇫🇷",
+  role: "Frontend Developer",
+  mode: "Frontend-first, Fullstack-capable",
+  status: "Open to CDI opportunities",
+  focus: [
+    "clean UI",
+    "fast web apps",
+    "scalable frontend architecture",
+    "smooth user experiences",
+  ],
+  mindset: "Build useful things. Keep learning. Ship better.",
+};
+````
+
+I’m a **Frontend Developer** with a strong fullstack foundation, passionate about crafting web applications that feel **fast**, **clear**, and **alive**.
+
+I like turning ideas into interfaces, interfaces into products, and products into something people actually enjoy using.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Current Quest
 
-### 🖥 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+> Looking for my next **CDI opportunity** as a
+> **Frontend Developer** — ideally React / Next.js / TypeScript.
+> Also open to **Fullstack Developer** roles where product quality matters.
 
-### ⚛ Frontend / UI
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-### ⚙ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-00E676?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 DevOps & Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white)
+```txt
+Location      : France / EU
+Work mode     : On-site · Hybrid · Remote
+Contract      : CDI
+Main stack    : React · Next.js · TypeScript
+Energy        : high
+```
 
 ---
 
-## 🔗 Connect with Me
+## ⚔️ Tech Arsenal
+
+### Frontend — where I feel at home
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,electron" />
+</p>
+
+### Backend — when the product needs depth
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,django,flask,postgres,sqlite,supabase,mongodb" />
+</p>
+
+### Tools — shipping, debugging, deploying
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,jenkins,vercel,vscode" />
+</p>
+
+---
+
+## 🧠 How I Build
+
+```txt
+01. Understand the user
+02. Design the flow
+03. Build the interface
+04. Make it fast
+05. Make it clean
+06. Make it maintainable
+07. Iterate until it feels right
+```
+
+I care about:
+
+* ⚡ **Performance** — because slow apps kill attention.
+* 🎨 **UI quality** — because details create trust.
+* 🧱 **Architecture** — because good code survives change.
+* 🧪 **Reliability** — because “it works on my machine” is not a feature.
+* 🚀 **Product thinking** — because code is only useful when it solves something.
+
+---
+
+## 🧩 My Developer DNA
+
 <div align="center">
-  <a href="mailto:hassanhaddane33s@gmail.com" target="_blank">
-    <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/hassanhaddane/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.lowkyz.xyz" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+
+| Trait             | Description                                                |
+| ----------------- | ---------------------------------------------------------- |
+| 🧠 Problem Solver | I enjoy breaking complex things into simple systems.       |
+| 🎯 Product Minded | I don’t just code screens, I think about the user journey. |
+| ⚡ Fast Learner    | New stack? New challenge? I adapt quickly.                 |
+| 🛠 Builder Energy | I like creating, testing, improving, and shipping.         |
+| 🌍 Multicultural  | Moroccan roots, based in France, open to EU opportunities. |
+
 </div>
 
+---
+
+## 🛰️ GitHub Signal
+
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LOWKYZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOWKYZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LOWKYZ&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+## 🧪 Currently Improving
+
+```txt
+Frontend architecture
+Next.js advanced patterns
+TypeScript depth
+UI/UX polish
+CI/CD workflows
+Fullstack product delivery
+```
+
+---
+
+## 🎛️ Outside the Code
+
+When I’m not building apps, I’m probably:
+
+* making beats 🎧
+* mixing vocals 🎙️
+* learning something random but useful 📚
+* watching sports or history/geopolitics content 🌍
+
+Because creativity is not only in design — it’s in rhythm, systems, culture, and how things connect.
+
+---
+
+## 📡 Let’s Connect
+
+<div align="center">
+
+  <p>
+    I’m open to serious CDI opportunities, ambitious teams, and people building things with taste.
+  </p>
+
+  <a href="mailto:hassanhaddane33s@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hassanhaddane/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.lowkyz.xyz">
+    <img src="https://img.shields.io/badge/View%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:7c3aed,100:0f172a" />
+
+</div>
+```
