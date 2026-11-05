@@ -188,7 +188,7 @@ Creativity is everywhere: in rhythm, systems, interfaces, culture and the way th
 <a href="https://www.linkedin.com/in/hassanhaddane/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.lowkyz.xyz">
+<a href="https://www.lowkyz.dev">
   <img src="https://img.shields.io/badge/View%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
