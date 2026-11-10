@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Hassan HADDANE — Full-Stack Developer</title>
+<desc id="desc">Animated dark engineering dashboard with cyan and violet accents and a live architecture motif.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070D20"/><stop offset=".52" stop-color="#101B39"/><stop offset="1" stop-color="#0B1226"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset=".52" stop-color="#818CF8"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#0891B2" stop-opacity=".27"/><stop offset="1" stop-color="#0891B2" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="33" height="33" patternUnits="userSpaceOnUse"><path d="M33 0H0V33" fill="none" stroke="#94A3B8" stroke-opacity=".085" stroke-width="1"/></pattern>
+  <clipPath id="clip"><rect width="1200" height="330" rx="19"/></clipPath>
+  <style>
+    @keyframes breathe{0%,100%{opacity:.48}50%{opacity:1}}
+    @keyframes rotate{to{transform:rotate(360deg)}}
+    @keyframes reverse{to{transform:rotate(-360deg)}}
+    @keyframes twinkle{0%,100%{opacity:.2}50%{opacity:1}}
+    .pulse{animation:breathe 2.7s ease-in-out infinite}
+    .orbit{transform-origin:987px 163px;animation:rotate 34s linear infinite}
+    .orbit2{transform-origin:987px 163px;animation:reverse 23s linear infinite}
+    .t1{animation:twinkle 2.2s ease-in-out infinite}
+    .t2{animation:twinkle 3.1s ease-in-out infinite}
+    @media (prefers-reduced-motion:reduce){.pulse,.orbit,.orbit2,.t1,.t2{animation:none}}
+  </style>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="330" fill="url(#bg)"/>
+  <rect width="1200" height="330" fill="url(#grid)"/>
+  <circle cx="990" cy="158" r="249" fill="url(#halo)"/>
+  <path d="M0 4H1200" stroke="url(#accent)" stroke-width="7"/>
+  <g opacity=".5" stroke="#22D3EE" stroke-width="1"><path d="M31 28h23M31 28v23M1145 28h23v23M31 302h23M31 279v23M1145 302h23v-23"/></g>
+  <text x="69" y="52" fill="#67E8F9" font-family="monospace" font-size="14" letter-spacing="3">LOWKYZ.EXE  /  SOFTWARE ENGINEERING</text>
+  <circle cx="71" cy="99" r="5" fill="#34D399" class="pulse"/>
+  <text x="87" y="104" fill="#A5F3FC" font-family="monospace" font-size="14" letter-spacing="1.8">AVAILABLE FOR FULL-STACK ROLES</text>
+  <text x="66" y="182" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="61" letter-spacing="-1.5">HASSAN HADDANE</text>
+  <rect x="70" y="195" width="496" height="4" fill="url(#accent)" rx="2"/>
+  <text x="70" y="235" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600">FULL-STACK DEVELOPER</text>
+  <text x="70" y="270" fill="#94A3B8" font-family="monospace" font-size="17">Ideas → interfaces → APIs → data → deployment</text>
+  <text x="70" y="303" fill="#67E8F9" font-family="monospace" font-size="14">RENNES, FRANCE  /  OPEN TO OPPORTUNITIES</text>
+  <g class="orbit">
+    <circle cx="987" cy="163" r="106" fill="none" stroke="#38BDF8" stroke-opacity=".52" stroke-dasharray="6 13" stroke-width="2"/>
+    <circle cx="987" cy="57" r="5" fill="#22D3EE" class="t1"/>
+    <circle cx="1093" cy="163" r="4" fill="#A78BFA" class="t2"/>
+  </g>
+  <g class="orbit2"><circle cx="987" cy="163" r="78" fill="none" stroke="#A78BFA" stroke-opacity=".58" stroke-dasharray="70 22" stroke-width="3"/></g>
+  <circle cx="987" cy="163" r="57" fill="#101D3A" stroke="#38BDF8" stroke-opacity=".6" stroke-width="1.5"/>
+  <path d="m958 148-16 15 16 15m57-30 16 15-16 15m-17-41-19 52" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="monospace" font-size="14" letter-spacing="2" fill="#94A3B8">
+    <text x="820" y="37">01  BUILD</text><text x="1032" y="294">03  SHIP</text><text x="818" y="296">02  CONNECT</text>
+  </g>
+  <g opacity=".65"><circle cx="758" cy="85" r="2" fill="#22D3EE" class="t1"/><circle cx="1172" cy="221" r="3" fill="#A78BFA" class="t2"/><circle cx="738" cy="254" r="2" fill="#22D3EE" class="t2"/></g>
+  <rect x="-180" y="317" width="180" height="2" rx="1" fill="#22D3EE" opacity=".8"><animate attributeName="x" from="-180" to="1200" dur="8s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
