@@ -211,16 +211,32 @@ My previous experience included contributing to the evolution of medical softwar
 
 <div align="center">
 
-<img height="172" src="https://github-readme-stats.vercel.app/api?username=hassanhaddane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1226&title_color=67E8F9&icon_color=818CF8&text_color=C8D5E8" alt="GitHub stats" />
-<img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanhaddane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1226&title_color=67E8F9&text_color=C8D5E8" alt="Most used languages in public GitHub repositories" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanhaddane&bg_color=0B1226&color=67E8F9&line=818CF8&point=C084FC&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
+**A snapshot of my real GitHub contributions, projects and languages.**
 
 <br/>
 
-<sub>GitHub charts reflect public activity and repositories, not the full picture of professional work.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/overview.dark.svg" />
+  <img src="./assets/generated/overview.light.svg" width="100%" alt="Self-hosted GitHub overview: contributions, repositories, stars and other activity" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/languages.dark.svg" />
+  <img src="./assets/generated/languages.light.svg" width="100%" alt="Self-hosted breakdown of languages in public GitHub repositories" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/momentum.dark.svg" />
+  <img src="./assets/generated/momentum.light.svg" width="100%" alt="Self-hosted chart of GitHub contribution momentum over time" />
+</picture>
+
+<br/>
+
+<sub>Generated daily with GitHub Actions · SVG files hosted in this repository · GitHub activity doesn't include all professional work.</sub>
 
 </div>
 
