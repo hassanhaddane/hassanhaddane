@@ -1,0 +1,37 @@
+name: Generate self-hosted GitHub profile cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "37 4 * * *"
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-cards.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Render overview, language and activity cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: hassanhaddane
+          cards: overview,languages,momentum,contributions
+          output-dir: assets/generated
+          themes: light,dark
+          language-limit: '8'
+          commit: true
+          commit-message: "chore(profile): update self-hosted GitHub activity cards [skip ci]"
